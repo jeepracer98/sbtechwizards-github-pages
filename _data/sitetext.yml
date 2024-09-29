@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Hardware & Software Repair"
-        desc: "We can help repair malfunctioning or slow hardware and software."
+        desc: "We can help repair slow or malfunctioning tech."
         icon: fas fa-wrench #find more at https://fontawesome.com/icons
       - title: "Tech Support & Advice"
-        desc: "We can help with any questions or issues you may have with your devices."
+        desc: "We can help with any questions or issues you have about your devices."
         icon: fas fa-laptop
       - title: "Tech Setup & Installation"
-        desc: "We can help set up any kind of new devices."
+        desc: "We can help set up any new devices or services."
         icon: fas fa-hat-wizard
 
 # portfolio:
@@ -71,7 +71,14 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "_____________________________________________"
-    body: "We are a local team hoping to help people with tech."
+    body: |
+      At SB Tech Wizards, we strive to make technology more accessible for everyone. We bring tech solutions directly to your home! We are a brother-sister duo, born and raised in Santa Barbara, CA.
+
+      Garrett has a B.S. in Computer Science and has been working in IT and software development for several years. His expertise lies in software and hardware maintenance as well as tech installation. Sadie graduated with a B.A. in Psychology and became interested in tech after working closely with a variety of systems at her work. Her specialty is software support and tech advice.
+
+      We have a heart for assisting people of all demographics with tedious tech issues so you can explore all technology has to offer.
+
+      Please give us a call at (805) 708-0260 or email at SBTechWizards@gmail.com.
     section: about
 
 # clients:
@@ -98,7 +105,7 @@ en: &DEFAULT_EN
 #   subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Sadie Marton"
+      - name: "Sadie"
         role: "Founder"
         image: assets/img/team/sadie.jpg
         social:
@@ -108,7 +115,7 @@ en: &DEFAULT_EN
 #           icon: fab fa-facebook-f
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
-      - name: "Garrett Marton"
+      - name: "Garrett"
         role: "Founder"
         image: assets/img/team/garrett.jpg
         social:
@@ -123,7 +130,7 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: "_____________________________________________"
     section: contact
-    subtext: "Call us at +1 (805) 708-0260 or email us at [sbtechwizards@gmail.com](mailto:sbtechwizards@gmail.com)"
+    subtext: "Call us at (805) 708-0260 or email us at SBTechWizards@gmail.com"
 #   name: "Name*"
 #   name-validation: "Please enter your name."
 #   email: "Email*"

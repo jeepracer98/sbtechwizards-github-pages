@@ -69,3 +69,9 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+// Ideally this would be in an "about" section, but I couldn't find a way
+// to do that
+.about-body {
+  text-align: left;
+}
