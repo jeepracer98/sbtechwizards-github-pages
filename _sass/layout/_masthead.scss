@@ -29,8 +29,9 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
+      // Removed these to make it fit on the screen better
+      // padding-top: 300px;
+      // padding-bottom: 200px;
       .intro-lead-in {
         font-size: 40px;
         font-style: italic;
